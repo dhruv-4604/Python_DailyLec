@@ -1,0 +1,9 @@
+Don Knuth: If you find that you're spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you're spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice.
+
+John Von Neumann: A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful; and there were no general indications that it ever would be so.
+
+Edsger Dijkstra: Program testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.
+
+Bill Gates: The obvious mathematical breakthrough would be development of an easy way to factor large prime numbers.
+
+Brian Heinold: Uh, what?
